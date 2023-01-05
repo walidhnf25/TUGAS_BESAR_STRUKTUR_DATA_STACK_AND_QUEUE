@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1672578592 source:c:\struktur data\tugas besar_std_stack and queue_se-45-03\main.cpp
+	"gudang.cpp"
+
+1672578585 c:\struktur data\tugas besar_std_stack and queue_se-45-03\gudang.cpp
+	"gudang.h"
+
+1672578587 c:\struktur data\tugas besar_std_stack and queue_se-45-03\gudang.h
+	<iostream>
+	<stdlib.h>
+
